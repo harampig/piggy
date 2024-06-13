@@ -6,6 +6,11 @@ body{padding:0;margin:0;background-color:black;color:white;overflow:hidden;font-
 small {
     color: gray;
 }
+.piglin {
+  position: fixed;
+  top: 45%;
+  left: 47%;
+}
 img.rot {
   animation: 1s linear 0s normal none infinite running rot;
   -webkit-animation: 1s linear 0s normal none infinite running rot;
