@@ -31,3 +31,6 @@ img.rot {
     transform: rotate(360deg);
   }
 }
+.curtest {
+	cursor: url('NormalSelect.cur') 4 1;
+}
