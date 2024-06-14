@@ -34,3 +34,7 @@ img.rot {
 .curtest {
   cursor: url("pig_nose.png"), pointer;
 }
+}
+.boarnose {
+  cursor: url("boar_nose.png"), pointer;
+}
